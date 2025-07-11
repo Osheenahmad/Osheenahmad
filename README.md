@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Osheenahmad/Osheenahmad/main/finnnal%20github%20image.webp" width="100%" height="240px" alt="GitHub Banner"/>
+</p>
+
 <h1 align="center">👋 Hi there, I'm Osheen Ahmed</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align ="right" alt ="coding" width="400"src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
